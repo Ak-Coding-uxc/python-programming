@@ -1,0 +1,14 @@
+""" Input: s = "GeeksQuiz"
+Output: ziuQskeeG
+
+Input: s = "abc"
+Output: cba """
+# how to convert list into string and vice versa
+s = ['1','2','4','5']
+k = "".join(s)
+print(type(k))
+
+""" k = "aman is a good boy"
+s = k.split(" ")
+print(type(s))
+ """
